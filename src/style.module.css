@@ -1,0 +1,11 @@
+.dayColor {
+  width: 200px;
+  height: 80px;
+  background-color: yellow;
+}
+
+.nightColor {
+  width: 200px;
+  height: 80px;
+  background-color: red;
+}
